@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.11.12)  11 APR 2016 15:31
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.11.12)  12 APR 2016 15:57
 entering extended mode
-**C:/Users/lma2/Desktop/SolPaper/solPaper.tex
-(C:/Users/lma2/Desktop/SolPaper/solPaper.tex
+**C:/Users/lma2/Desktop/GitHub/SolPaper/SolPaper/solPaper.tex
+(C:/Users/lma2/Desktop/GitHub/SolPaper/SolPaper/solPaper.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -13,7 +13,7 @@ german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
 ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
 an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
 ishmax, welsh, loaded.
-(C:\Users\lma2\Desktop\SolPaper\nature.cls
+(C:\Users\lma2\Desktop\GitHub\SolPaper\SolPaper\nature.cls
 Document Class: nature 20/9/2010 v1.2
 A class for writing preprints for the journal Nature
 Written by Peter Czoschke
@@ -117,7 +117,7 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen110
 \Gin@req@width=\dimen111
 )
-(C:\Users\lma2\Desktop\SolPaper\solPaper.aux)
+(C:\Users\lma2\Desktop\GitHub\SolPaper\SolPaper\solPaper.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
 LaTeX Font Info:    ... okay on input line 28.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
@@ -172,7 +172,7 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
 [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
-(C:\Users\lma2\Desktop\SolPaper\solPaper.bbl
+(C:\Users\lma2\Desktop\GitHub\SolPaper\SolPaper\solPaper.bbl
 LaTeX Font Info:    Try loading font information for T1+pcr on input line 17.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1pcr.fd"
@@ -259,7 +259,7 @@ dressed to I.B.S. (email: ian.spielman@nist.gov).
  []
 
 [5] AED endfloat: Processing end Figures and Tables [6]
-(C:\Users\lma2\Desktop\SolPaper\solPaper.fff
+(C:\Users\lma2\Desktop\GitHub\SolPaper\SolPaper\solPaper.fff
 <Figures/Fig1_solOscV3.pdf, id=31, 481.97264pt x 255.26366pt>
 File: Figures/Fig1_solOscV3.pdf Graphic file (type pdf)
 
@@ -271,8 +271,8 @@ LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10.95> not available
  [7
 
 
- <C:/Users/lma2/Desktop/SolPaper/Figures/Fig1_solOscV3.pdf>] <Figures/Fig2_solW
-Imp.pdf, id=111, 299.1175pt x 487.48825pt>
+ <C:/Users/lma2/Desktop/GitHub/SolPaper/SolPaper/Figures/Fig1_solOscV3.pdf>]
+<Figures/Fig2_solWImp.pdf, id=111, 299.1175pt x 487.48825pt>
 File: Figures/Fig2_solWImp.pdf Graphic file (type pdf)
 
 <use Figures/Fig2_solWImp.pdf>
@@ -280,8 +280,8 @@ Package pdftex.def Info: Figures/Fig2_solWImp.pdf used on input line 9.
 (pdftex.def)             Requested size: 253.22952pt x 412.70819pt.
  [8
 
- <C:/Users/lma2/Desktop/SolPaper/Figures/Fig2_solWImp.pdf>] <Figures/Fig3_Life.
-pdf, id=139, 481.8pt x 205.26688pt>
+ <C:/Users/lma2/Desktop/GitHub/SolPaper/SolPaper/Figures/Fig2_solWImp.pdf>]
+<Figures/Fig3_Life.pdf, id=139, 481.8pt x 205.26688pt>
 File: Figures/Fig3_Life.pdf Graphic file (type pdf)
 
 <use Figures/Fig3_Life.pdf>
@@ -289,8 +289,8 @@ Package pdftex.def Info: Figures/Fig3_Life.pdf used on input line 16.
 (pdftex.def)             Requested size: 386.95747pt x 164.86519pt.
  [9
 
- <C:/Users/lma2/Desktop/SolPaper/Figures/Fig3_Life.pdf>] <Figures/Fig4_Diff.pdf
-, id=163, 325.215pt x 300.69238pt>
+ <C:/Users/lma2/Desktop/GitHub/SolPaper/SolPaper/Figures/Fig3_Life.pdf>]
+<Figures/Fig4_Diff.pdf, id=163, 325.215pt x 300.69238pt>
 File: Figures/Fig4_Diff.pdf Graphic file (type pdf)
 
 <use Figures/Fig4_Diff.pdf>
@@ -300,30 +300,30 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 24.
  [10
 
- <C:/Users/lma2/Desktop/SolPaper/Figures/Fig4_Diff.pdf>]) (C:\Users\lma2\Deskto
-p\SolPaper\solPaper.aux) ) 
+ <C:/Users/lma2/Desktop/GitHub/SolPaper/SolPaper/Figures/Fig4_Diff.pdf>])
+(C:\Users\lma2\Desktop\GitHub\SolPaper\SolPaper\solPaper.aux) ) 
 Here is how much of TeX's memory you used:
  2944 strings out of 493921
- 43146 string characters out of 3144878
+ 43354 string characters out of 3144878
  90384 words of memory out of 3000000
  6210 multiletter control sequences out of 15000+200000
  42186 words of font info for 53 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 43i,5n,40p,1805b,415s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname
-/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Prog
-ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2
-.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
-ype1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw
-/courier/ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8
-a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Prog
-ram Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 
-2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/u
-rw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.
-pfb>
-Output written on solPaper.pdf (10 pages, 2127616 bytes).
+ 43i,5n,40p,1821b,415s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program File
+s/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb
+><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Pro
+gram Files/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files/MiKT
+eX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times
+/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/P
+rogram Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKT
+eX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on solPaper.pdf (10 pages, 2127707 bytes).
 PDF statistics:
  225 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
