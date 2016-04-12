@@ -1,0 +1,28 @@
+\begin{figure}[h!]
+   \includegraphics[width=136mm]{Figures/Fig1_solOscV3.pdf}
+   \caption{\textbf{Soliton Oscillations} \textbf{a}, Individual absorbtion images of quasi-1D condensate with soliton vs time after phase imprint. Blue dashed line shows where \textbf{b} is a subset of the data. \textbf{c}, the soliton position vs time after phase imprint. Grey dashed lines represent the edges of the quasi 1-D condensate. \textbf{d} averaged density profile of the condensate in the axial direction at 0.947s after phase imprint.}
+   \label{solOsc}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[h!]
+   \includegraphics[width=89mm]{Figures/Fig2_solWImp.pdf}
+   \caption{\textbf{Soliton Oscillations in the Presence of Impurities} Here, we plot the soliton position vs time after phase imprint for different impurity levels. The blue solid line is a global fit to all the data. The grey dashed lines represent the extent of the condensate on either end vs time.}
+   \label{solWImp}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[h!]
+   \includegraphics[width=136mm]{Figures/Fig3_Life.pdf}
+   \caption{\textbf{Soliton Lifetime in the Presence of Impurities} \textbf{a}, Histograms of fractional count of data with solitons vs time after phase imprint. The blue solid line is a fit to a fermi dirac distrubution from which we extract a width and a lifetime. \textbf{b}, The lifetime extrtacted from fits of the histograms of the fractional counts with solitons vs percent impurities in the condensate.}
+   \label{solLife}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[h!]
+   \includegraphics[width=136mm]{Figures/Fig4_Diff.pdf}
+   \caption{\textbf{Browninan diffusion constant depence on impurities} This plots the diffusion constant found from fitting the square of the residuals of the fit for the soliton oscillations vs time after phase imprint. \textbf{Inset} The linear fit to the square of the residuals for 1.2\% impurities vs time after phase imprint. Data is binned into 0.5s bins, the uncertianty is the standard deviation in each bin divided by $\sqrt{N}$, where $N$ is the number of points in each bin.}
+   \label{solDiff}
+\end{figure}
+\efloatseparator
+ 

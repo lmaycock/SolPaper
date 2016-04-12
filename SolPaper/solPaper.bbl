@@ -1,0 +1,126 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\providecommand{\bibinfo}[2]{#2}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem{Becker2013}
+\bibinfo{author}{Becker, C.}, \bibinfo{author}{Sengstock, K.},
+  \bibinfo{author}{Schmelcher, P.}, \bibinfo{author}{Kevrekidis, P.~G.} \&
+  \bibinfo{author}{Carretero-Gonz??lez, R.}
+\newblock \bibinfo{title}{{Inelastic collisions of solitary waves in
+  anisotropic Bose-Einstein condensates: Sling-shot events and expanding
+  collision bubbles}}.
+\newblock \emph{\bibinfo{journal}{New Journal of Physics}}
+  \textbf{\bibinfo{volume}{15}} (\bibinfo{year}{2013}).
+\newblock \eprint{1308.2994}.
+
+\bibitem{Weller2008}
+\bibinfo{author}{Weller, A.} \emph{et~al.}
+\newblock \bibinfo{title}{{Experimental Observation of Oscillating and
+  Interacting Matter Wave Dark Solitons}}.
+\newblock \emph{\bibinfo{journal}{Physical Review Letters}}
+  \textbf{\bibinfo{volume}{101}}, \bibinfo{pages}{130401}
+  (\bibinfo{year}{2008}).
+\newblock
+  \urlprefix\url{http://link.aps.org/doi/10.1103/PhysRevLett.101.130401}.
+\newblock \eprint{0803.4352}.
+
+\bibitem{Ku2014}
+\bibinfo{author}{Ku, M. J.~H.} \emph{et~al.}
+\newblock \bibinfo{title}{{Motion of a solitonic vortex in the BEC-BCS
+  crossover}}.
+\newblock \emph{\bibinfo{journal}{Physical Review Letters}}
+  \textbf{\bibinfo{volume}{113}}, \bibinfo{pages}{1--5} (\bibinfo{year}{2014}).
+\newblock \eprint{1402.7052}.
+
+\bibitem{Lin2009e}
+\bibinfo{author}{Lin, Y.~J.}, \bibinfo{author}{Perry, A.~R.},
+  \bibinfo{author}{Compton, R.~L.}, \bibinfo{author}{Spielman, I.~B.} \&
+  \bibinfo{author}{Porto, J.~V.}
+\newblock \bibinfo{title}{{Rapid production of 87Rb Bose-Einstein condensates
+  in a combined magnetic and optical potential}}.
+\newblock \emph{\bibinfo{journal}{Physical Review A - Atomic, Molecular, and
+  Optical Physics}} \textbf{\bibinfo{volume}{79}}, \bibinfo{pages}{1--8}
+  (\bibinfo{year}{2009}).
+\newblock \eprint{arXiv:0904.3314v1}.
+
+\bibitem{Zaremba1998}
+\bibinfo{author}{Zaremba, E.}
+\newblock \bibinfo{title}{{Sound propagation in a cylindrical Bose-condensed
+  gas}}.
+\newblock \emph{\bibinfo{journal}{Phys. Rev. A1}}
+  \textbf{\bibinfo{volume}{57}}, \bibinfo{pages}{57} (\bibinfo{year}{1998}).
+\newblock \eprint{9708237}.
+
+\bibitem{Stringari1998}
+\bibinfo{author}{Stringari, S.}
+\newblock \bibinfo{title}{{Dynamics of Bose-Einstein condensed gases in highly
+  deformed traps}}.
+\newblock \emph{\bibinfo{journal}{Physical Review A}}
+  \textbf{\bibinfo{volume}{58}}, \bibinfo{pages}{2385--2388}
+  (\bibinfo{year}{1998}).
+\newblock
+  \urlprefix\url{http://arxiv.org/abs/cond-mat/9801067$\backslash$nhttp://link.aps.org/doi/10.1103/PhysRevA.58.2385}.
+\newblock \eprint{9801067}.
+
+\bibitem{Kavoulakis1998}
+\bibinfo{author}{Kavoulakis, G.~M.} \& \bibinfo{author}{Pethick, C.~J.}
+\newblock \bibinfo{title}{{Quasi-one-dimensiona1 character of sound propagation
+  in elongated Bose-Einstein condensed clouds}}.
+\newblock \emph{\bibinfo{journal}{Physical Review A}}
+  \textbf{\bibinfo{volume}{58}}, \bibinfo{pages}{1563--1566}
+  (\bibinfo{year}{1998}).
+\newblock
+  \urlprefix\url{papers://fe3c0465-e0d0-4e90-a74d-7e674c71995a/Paper/p126}.
+\newblock \eprint{9711224}.
+
+\bibitem{Andrews1997b}
+\bibinfo{author}{Andrews, M.}, \bibinfo{author}{Kurn, D.} \&
+  \bibinfo{author}{Miesner, H.}
+\newblock \bibinfo{title}{{Propagation of sound in a Bose-Einstein
+  condensate}}.
+\newblock \emph{\bibinfo{journal}{Physical Review Letters}}
+  \textbf{\bibinfo{volume}{79}}, \bibinfo{pages}{553--556}
+  (\bibinfo{year}{1997}).
+\newblock \urlprefix\url{http://link.aps.org/doi/10.1103/PhysRevLett.79.553}.
+
+\bibitem{Burger1999}
+\bibinfo{author}{Burger, S.}, \bibinfo{author}{Bongs, K.},
+  \bibinfo{author}{Dettmer, S.}, \bibinfo{author}{Ertmer, W.} \&
+  \bibinfo{author}{Sengstock, K.}
+\newblock \bibinfo{title}{{Dark Solitons in Bose-Einstein Condensates}}.
+\newblock \emph{\bibinfo{journal}{Physical Review Letters83}}
+  \textbf{\bibinfo{volume}{83}}, \bibinfo{pages}{5198--5201}
+  (\bibinfo{year}{1999}).
+
+\bibitem{Denschlag2000}
+\bibinfo{author}{Denschlag, J.}
+\newblock \bibinfo{title}{{Generating Solitons by Phase Engineering of a
+  Bose-Einstein Condensate}}.
+\newblock \emph{\bibinfo{journal}{Science}} \textbf{\bibinfo{volume}{287}},
+  \bibinfo{pages}{97--101} (\bibinfo{year}{2000}).
+
+\bibitem{Muryshev2002}
+\bibinfo{author}{Muryshev, a.}, \bibinfo{author}{Shlyapnikov, G.~V.},
+  \bibinfo{author}{Ertmer, W.}, \bibinfo{author}{Sengstock, K.} \&
+  \bibinfo{author}{Lewenstein, M.}
+\newblock \bibinfo{title}{{Dynamics of Dark Solitons in Elongated Bose-Einstein
+  Condensates}}.
+\newblock \emph{\bibinfo{journal}{Physical Review Letters}}
+  \textbf{\bibinfo{volume}{89}}, \bibinfo{pages}{110401}
+  (\bibinfo{year}{2002}).
+\newblock
+  \urlprefix\url{http://link.aps.org/doi/10.1103/PhysRevLett.89.110401}.
+\newblock \eprint{0111506}.
+
+\bibitem{Fang2015}
+\bibinfo{author}{Fang, F.}, \bibinfo{author}{Olf, R.}, \bibinfo{author}{Wu,
+  S.}, \bibinfo{author}{Kadau, H.} \& \bibinfo{author}{Stamper-Kurn, D.~M.}
+\newblock \bibinfo{title}{{Condensing magnons in a degenerate ferromagnetic
+  spinor Bose gas}} \bibinfo{pages}{5} (\bibinfo{year}{2015}).
+\newblock \urlprefix\url{http://arxiv.org/abs/1511.05193}.
+\newblock \eprint{1511.05193}.
+
+\end{thebibliography}
